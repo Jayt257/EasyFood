@@ -1,20 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T08:33:54.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="eJV6OWEPGgP6wGlrLuOS" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T08:39:29.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Wqgkii1FGepuSJgiUCag" version="24.2.2" type="github">
   <diagram name="Page-1" id="zuXbqSnwmqj0cWmO8iZg">
     <mxGraphModel dx="1900" dy="1622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="m8JGMmTYuIlXO8g8tdGf-2" value="User Login&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="-440" width="130" height="60" as="geometry" />
+          <mxGeometry x="70" y="-480" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m8JGMmTYuIlXO8g8tdGf-4" value="User Login&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="-170" width="130" height="60" as="geometry" />
+        <mxCell id="m8JGMmTYuIlXO8g8tdGf-4" value="Dashoard Screen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-230" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m8JGMmTYuIlXO8g8tdGf-5" value="User Login&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="-300" width="130" height="60" as="geometry" />
+        <mxCell id="m8JGMmTYuIlXO8g8tdGf-5" value="Back to login page" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="-395" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="m8JGMmTYuIlXO8g8tdGf-6" value="User Login&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-140" width="130" height="60" as="geometry" />
+        <mxCell id="m8JGMmTYuIlXO8g8tdGf-6" value="Data Fetching" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-310" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m8JGMmTYuIlXO8g8tdGf-8" value="Varified User&lt;div&gt;Yes or No&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="-400" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="m8JGMmTYuIlXO8g8tdGf-9" value="User Login&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-210" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m8JGMmTYuIlXO8g8tdGf-10" value="Go to Login Screen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="-210" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m8JGMmTYuIlXO8g8tdGf-11" value="All other screens" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="-140" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m8JGMmTYuIlXO8g8tdGf-12" value="Network Connection&lt;div&gt;Yes or No&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-320" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
